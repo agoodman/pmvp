@@ -1,0 +1,5 @@
+include(":kmp:pmvp:pmvp-ktor")
+include(":kmp:pmvp:pmvp-library")
+//include(":kmp:pmvp:pmvp-nano")
+include(":kmp:pmvp:pmvp-sqldelight")
+include(":kmp:pmvp:pmvp-view")
